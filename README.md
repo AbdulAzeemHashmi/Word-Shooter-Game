@@ -1,6 +1,6 @@
-# 🎯 Word Shooter – GLUT Ultimate Edition  
+# 🎯 Word Shooter – GLUT Ultimate Edition 
 *A high-octane word-matching game with 370k dictionary words, 2-minute timed rounds, 8-directional word detection, and full on-screen scoring.*
-
+  
 ---
 
 ## 🎮 About
