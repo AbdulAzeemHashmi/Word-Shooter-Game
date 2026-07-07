@@ -16,7 +16,7 @@ The project features a **370,099-word dictionary**, **8-directional word detecti
 | Feature | Included |
 |---------|----------|
 | 🎯 **Interactive shooter cannon** | ✅ |
-| 📖 **370,099-word dictionary** (`words_alpha.txt`) | ��� |
+| 📖 **370,099-word dictionary** (`words_alpha.txt`) | ✅ |
 | ⏱️ **2-minute timed rounds** with live countdown | ✅ |
 | 🔤 **Letter tiles with texture rendering** | ✅ |
 | 🔍 **8-directional word detection** (H, V, 4 diagonals) | ✅ |
